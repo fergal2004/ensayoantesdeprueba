@@ -8,7 +8,7 @@ public class Carro
     [Key]
     [MaxLength(7)]
     public string matricula { get; set; }
-    public double cilindraje { get; set; }
+    public double potencia { get; set; }
     [MaxLength(50)]
     public string modelo { get; set; }
     public string propietarioIdentificacion { get; set; }
