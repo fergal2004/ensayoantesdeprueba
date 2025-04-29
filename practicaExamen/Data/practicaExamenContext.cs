@@ -16,4 +16,6 @@ public class practicaExamenContext : DbContext
     public DbSet<Carro> Carro { get; set; } = default!;
     public DbSet<Propietario> Propietario { get; set; } = default!;
 
+public DbSet<practicaExamen.Models.persona> persona { get; set; } = default!;
+
 }
