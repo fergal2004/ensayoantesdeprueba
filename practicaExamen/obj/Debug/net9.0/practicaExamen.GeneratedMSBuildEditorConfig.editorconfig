@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = practicaExamen
+build_property.RootNamespace = practicaExamen
+build_property.ProjectDir = /Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Carro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycm8vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Carro/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycm8vRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Carro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycm8vRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Carro/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycm8vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Carro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycm8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Propietario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvcGlldGFyaW8vQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Propietario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvcGlldGFyaW8vRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Propietario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvcGlldGFyaW8vRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Propietario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvcGlldGFyaW8vRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Propietario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvcGlldGFyaW8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fernangal2004/Desktop/Programacion_IV_Galindo_Fernando/practicaExamen/practicaExamen/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-edxdb9lnsp

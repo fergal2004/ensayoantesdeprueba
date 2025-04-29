@@ -1,0 +1,36 @@
+@model practicaExamen.Models.Carro
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Carro</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cilindraje)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cilindraje)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.modelo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.modelo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.propietario)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.propietario.identificaion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.placa">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
