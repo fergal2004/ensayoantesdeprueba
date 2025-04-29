@@ -7,7 +7,7 @@ public class Carro
 {
     [Key]
     [MaxLength(7)]
-    public string placa { get; set; }
+    public string matricula { get; set; }
     public double cilindraje { get; set; }
     [MaxLength(50)]
     public string modelo { get; set; }
